@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+iframe{
+	width : 100%;
+	height: 300px;
+	border-color: teal;
+}
+h1 {
+	margin-left :10%;
+	font-size : 24px;	
+	color: white;
+}
+.title{
+	padding : 20px 0 20px 0 ;
+	width:100% ;
+	background : #356f7c;
+}
